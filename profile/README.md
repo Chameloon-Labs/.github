@@ -6,6 +6,15 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/Chameloon-Labs/space-python"><img src="card-python.png" width="49%" alt="space for python (chameloon-space): WSGI and ASGI, serve spaces from Flask, Django or FastAPI. Bots in bot.py. pip install chameloon-space" /></a>
+  <a href="https://github.com/Chameloon-Labs/space-go"><img src="card-go.png" width="49%" alt="space for go (space-go): one http.Handler, standard library only. Bots in Go code. go get github.com/Chameloon-Labs/space-go" /></a>
+  <a href="https://github.com/Chameloon-Labs/space-rust"><img src="card-rust.png" width="49%" alt="space for rust (chameloon-space): a framework-free core for axum or anything else, and a small server. cargo add chameloon-space" /></a>
+  <a href="https://github.com/Chameloon-Labs/space-php"><img src="card-php.png" width="49%" alt="space for php (chameloon-labs/space): plain PHP, Laravel or Symfony. Bots in bot.php. composer require chameloon-labs/space" /></a>
+</p>
+
+<p align="center">Every server passes the same <a href="https://github.com/Chameloon-Labs/conformance">conformance tests</a>. Another language? The <a href="https://chameloon.com/docs/protocol/">protocol</a> is all you need.</p>
+
+<p align="center">
   <a href="https://chameloon.com/docs/"><img src="button-docs.png" height="52" alt="Read the docs" /></a>
   <a href="https://chameloon.com"><img src="button-site.png" height="52" alt="chameloon.com" /></a>
 </p>
